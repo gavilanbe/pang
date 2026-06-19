@@ -1,0 +1,3 @@
+# Pang Deluxe requires only the Python standard library (3.8+).
+# Audio uses ctypes to load libsoundio/portaudio if present, but the game
+# runs fine silently when no audio backend is available.
